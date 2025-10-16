@@ -16,7 +16,8 @@ async def on_ready():
 
     # Loopa och skicka meddelande varje sekund
     while True:
-        await channel.send("🔁 Meddelande varje sekund!")
+        await channel.send("@everyone NIGGER")
         await asyncio.sleep(1)  # Vänta 1 sekund
 
 client.run(TOKEN)
+
